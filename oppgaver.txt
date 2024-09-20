@@ -41,3 +41,7 @@ Skriv inn tall 3: 6
 Skriv inn tall 4: 8
 Skriv inn tall 5: 10
 Summen av tallene er: 30
+
+
+
+Random tekst!
